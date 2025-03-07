@@ -3,8 +3,8 @@ const products = [
     {
         id: 1,
         name: "Designer Cotton Kurti",
-        price: "₹1,999",
-        discountPrice: "₹1,499",
+        price: "₹499",
+        discountPrice: "₹699",
         images: [
             "https://salaikadai.com/cdn/shop/files/A33A23AE-B567-4BC2-928A-544064B30021.jpg?v=1722414765&width=990",
             "https://salaikadai.com/cdn/shop/files/F96FD5B0-0584-42E8-AAF7-B53167774EE7.jpg?v=1722414765&width=990",
@@ -17,8 +17,8 @@ const products = [
     {
         id: 2,
         name: "Printed Rayon Kurti",
-        price: "₹1,499",
-        discountPrice: "₹1,199",
+        price: "₹999",
+        discountPrice: "₹499",
         images: [
             "https://yashgallery.com/cdn/shop/products/1373YKPINK_1.jpg?v=1713010630&width=990",
             "https://yashgallery.com/cdn/shop/products/1373YKPINK_2.jpg?v=1713010630&width=990"
@@ -30,8 +30,8 @@ const products = [
     {
         id: 3,
         name: "Anarkali Kurti",
-        price: "₹2,999",
-        discountPrice: "₹2,499",
+        price: "₹799",
+        discountPrice: "₹449",
         images: [
             "https://ahika.in/cdn/shop/products/SMP01783.jpg?v=1663217954",
             "https://ahika.in/cdn/shop/products/SMP01784.jpg?v=1663217954",
